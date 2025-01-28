@@ -1,10 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "gestionnaire-stages",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Tableau de bord administrateur de la plateforme de gestion des stages d'une école d'enseignement supérieur",
     "keywords": [
-        "framework",
-        "laravel"
+        "Tableau",
+        "bord",
+        "plateforme",
+        "gestion",
+        "stages"
     ],
     "license": "MIT",
     "require": {
