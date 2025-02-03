@@ -40,7 +40,7 @@ class DossierController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Affiche le dossier d'un demandeur de stage
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
@@ -53,7 +53,7 @@ class DossierController extends Controller
     }
 
     /**
-     * Show the form for editing the specified resource.
+     * Modifier le dossier d'un stagiaire.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
