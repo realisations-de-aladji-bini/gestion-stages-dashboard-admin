@@ -2,6 +2,15 @@
 
 Ce projet réalise le tableau de bord administrateur de la plateforme de gestion des stages d'une école d'enseignement supérieur.
 
+## Fonctionnalités
+
+- Consulter la liste des demandes de stage effectuées
+- Traiter les candidatures (accepter ou refuser l'offre de stage après analyse des candidatures)
+- Informer les candidats du résultat de leurs candidatures par mail
+- Créer un nouveau service dans lequel affecter les éventuels candidats retenus
+- Affecter un stagiaire dans un service donné)
+- Archiver les dossiers de candidatures
+
 ### Installation et configuration
 Comme il est réalisé en Laravel, il faut avoir installé Laravel sur votre hôte. Voir le [guide d'installation](https://laravel.com/docs/11.x/installation) sur le site officiel de Laravel [ici](https://laravel.com/docs/11.x/installation) 
 
