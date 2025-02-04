@@ -2,7 +2,7 @@
 
 Ce projet réalise le tableau de bord administrateur de la plateforme de gestion des stages d'une école d'enseignement supérieur.
 
-## Fonctionnalités
+### Fonctionnalités
 
 - Consulter la liste des demandes de stage effectuées
 - Traiter les candidatures (accepter ou refuser l'offre de stage après analyse des candidatures)
